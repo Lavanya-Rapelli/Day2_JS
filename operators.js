@@ -15,14 +15,14 @@
 // less than < 
 // greater than > 
 // less than or equal to <=
-// greater than or equalto >= 
+// greater than or equalto >=  
 
 // examples:
 
-let xx = 10
-let yy = 20
+// let xx = 10
+// let yy = 20
 
-console.log(x+y) 
+// console.log(x+y) 
 
 // additional operator
 
